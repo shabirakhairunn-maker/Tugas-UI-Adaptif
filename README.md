@@ -8,5 +8,5 @@ Aplikasi catatan mahasiswa dengan tampilan antarmuka yang adaptif menggunakan Je
 - Sylvani Novaliza (241080200148)
 
 ## 📺 Link Video Presentasi
-Anda dapat menonton video demo dan penjelasan tugas melalui link Google Drive berikut:
+Anda dapat menonton video presentasi dan penjelasan tugas melalui link Google Drive berikut:
 - [🔗 Tonton Video Presentasi di Google Drive](https://drive.google.com/drive/folders/1TPUNhvieUId4s92qBUSAPYKLEnfR779r?usp=sharing)
